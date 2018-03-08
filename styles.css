@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(182, 137, 137);
+    color: rgb(38, 75, 107);
+}
+
+h1  {
+    color: rgb(63, 82, 79);
+}
+
+.friend {
+    background-color: rgb(201, 201, 216);
+    width: 23em;
+}
+
+p   {
+    font-size: 2em;
+    background-color: white;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
